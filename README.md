@@ -1,6 +1,6 @@
 # StampMakerServer
 ## 初期化
-npm init (でいいはず)
+npm install (でいいはず)
 ## 使い方
 - node app.js (端末上)
 - http://localhost:8888 にアクセス 
